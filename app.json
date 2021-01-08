@@ -1,0 +1,10 @@
+{
+  "name": "secret-board",
+  "description": "秘密の匿名掲示板",
+  "repository": "https://github.com/suissan/secret-borad-class",
+  "logo": "",
+  "keywords": [
+    "node"
+  ],
+  "image": "heroku/nodejs"
+}
